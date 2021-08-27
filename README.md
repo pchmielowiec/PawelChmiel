@@ -1,2 +1,3 @@
-jkljljhljkl
-jkljkljjlhjk
+O mnie:
+Nazywam się Paweł
+
