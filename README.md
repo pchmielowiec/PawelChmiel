@@ -1,3 +1,3 @@
-O mnie:
+#O mnie:
 Nazywam się Paweł.
 
