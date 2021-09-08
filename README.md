@@ -1,6 +1,6 @@
 # Portfolio
 # O mnie
-Nazywam się Paweł Chmielowiec. Aktualnie staram się rozwijać swoją wiedzę i doświadczenie w zakresie testowania, aby móc rozpocząć pracę w branży IT. Poniżej znajduje się prezentacja moich doświadczeń i osiągnięć oraz szczegóły dotyczące źródeł zdobytej wiedzy, które są rozwinięciem tego, co znalazło się w moim CV.
+Nazywam się Paweł Chmielowiec. Aktualnie staram się rozwijać swoją wiedzę i doświadczenie w zakresie testowania, aby móc rozpocząć pracę w branży IT jako tester oprogramowania. Poniżej znajduje się prezentacja moich doświadczeń i osiągnięć oraz szczegóły dotyczące źródeł zdobytej wiedzy, które są rozwinięciem tego, co znalazło się w moim CV.
 
 # książki
 - R.Smilgin – „Zawód tester”
