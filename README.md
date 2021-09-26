@@ -8,11 +8,9 @@ Nazywam się Paweł Chmielowiec. Aktualnie staram się rozwijać swoją wiedzę 
 - Ben Fort – „SQL  mgnieniu oka”
 	
 # Strony internetowe:
-nieinformtyk.pl
-
-remigiuszbednarczyk.pl
-
-miroslawzelent.pl
+- nieinformtyk.pl
+- remigiuszbednarczyk.pl
+- miroslawzelent.pl
 
 
 # Przypadki testowe
