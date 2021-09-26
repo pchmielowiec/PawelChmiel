@@ -7,9 +7,11 @@ Nazywam się Paweł Chmielowiec. Aktualnie staram się rozwijać swoją wiedzę 
 - Aleksandra Kunysz – „Kierunek jakość – jak unikać błędów w projekcie”
 - Ben Fort – „SQL  mgnieniu oka”
 	
-# strony internetowe:
+# Strony internetowe:
 nieinformtyk.pl
+
 remigiuszbednarczyk.pl
+
 miroslawzelent.pl
 
 
