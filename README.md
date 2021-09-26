@@ -14,12 +14,12 @@ miroslawzelent.pl
 
 
 # Przypadki testowe
-  - [Testy dymne - przypadki testowe dla rockserwis.pl ]( https://docs.google.com/spreadsheets/d/1coxJsP8IbJiVwzt43nYskQL2nToK5Mc3mWIUS8ZV4Zo/edit?usp=sharing)
+  - [Test dymny - przypadki testowe dla rockserwis.pl ]( https://docs.google.com/spreadsheets/d/1coxJsP8IbJiVwzt43nYskQL2nToK5Mc3mWIUS8ZV4Zo/edit?usp=sharing)
   - [Test formularza - przypadki testowe dla https://forum.wszystkookawie.pl](https://docs.google.com/spreadsheets/d/e/2PACX-1vQuiU6VnwOO4geXBmXDvdI_LPS7XZZoS7N9WATAZlBuJ3OvCQm4uXIfCPXoLg9YNSDJZ4BSwXKZ7svP/pubhtml)
 
 # Raporty o błędach
 - [Zgłoszenie błędu na stronie nieinformatyk.pl](https://docs.google.com/document/d/1nTFH8TvVrRTMh6yjLdP6kbBypomtn0f1Z2mrS3BhB6Q/edit?usp=sharing)
-- [Zgłoszenie błędu na stronie filmweb.pl](https://drive.google.com/file/d/1gKwVEAQX8zgHs5r8j7P_nklrYOPO5ZUJ/view?usp=sharing)
+- [Zgłoszenie błędu na stronie filmweb.pl](https://docs.google.com/document/d/e/2PACX-1vQDc9lIo3ZjIC3NpegH7iNHcl0YZDUb0xQo1_SrpZ-x84QQApRvDtOhRRhlWzQGWA/pub)
 
 
 
